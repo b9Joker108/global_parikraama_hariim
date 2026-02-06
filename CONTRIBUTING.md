@@ -55,10 +55,11 @@ Non-members who support our mission can contribute by:
    - Explain your reasoning and goals
 
 3. **Align with Principles**
-   - Ensure alignment with Buddha Maitreya's vision
+   - Ensure alignment with Buddha Maitreya's (Principal Visionary) vision and direction
    - Honor poly-pansexual governance principles
    - Maintain compassionate, inclusive language
    - Support mobile, sustainable operations
+   - Recognize that all contributions must align with visionary authority
 
 4. **Submit Changes**
    - Follow existing formatting and style
@@ -144,11 +145,14 @@ Priority areas for development:
 - New sections, significant additions
 - Policy clarifications, expanded explanations
 - Require review by relevant coordinators
+- May require Leadership Council review for alignment with visionary direction
 
 ### Major Changes
 - New frameworks, substantial revisions
 - Policy changes, structural modifications
 - Require full assembly discussion and consensus
+- **Require final approval by Buddha Maitreya (Principal Visionary)**
+- Major documentation changes subject to visionary authority to ensure alignment with sacred mission
 
 ## Recognition
 
@@ -174,6 +178,8 @@ All contributors must:
 - Avoid harmful or divisive content
 - Support the collective mission
 - Maintain integrity and honesty
+- Respect the Principal Visionary's ultimate authority and direction
+- Work within the established governance framework
 
 ## License
 
@@ -183,4 +189,4 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 Thank you for helping build a comprehensive framework for the Global Parikrama Harīm!
 
-*May your contributions benefit all beings.*
+*May your contributions benefit all beings and align with the wisdom of Buddha Maitreya, our Principal Visionary.*

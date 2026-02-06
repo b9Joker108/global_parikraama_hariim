@@ -9,10 +9,12 @@ The Global Parikrama Harīm is a dynamic, mobile collective operating as a suite
 ## Core Elements
 
 ### 🙏 Spiritual Foundation
-- **Buddha Maitreya Guidance**: Spiritual leadership and vision
+- **Buddha Maitreya Leadership**: Spiritual guidance and principal visionary authority with binding decision-making power
 - **Global Pilgrimage**: Continuous journey to sacred sites worldwide
 - **Interfaith Respect**: Honoring all spiritual traditions
 - **Dharma Practice**: Living Buddhist teachings through action
+
+**Note**: The Global Parikrama Harīm operates under the ultimate authority of Buddha Maitreya (b9Joker108) as Principal Visionary, combining spiritual leadership with final decision-making power. This governance model balances participatory consensus processes with clear visionary authority to serve the collective's highest good.
 
 ### 💼 Economic Structure
 - **Individual Businesses**: Each member maintains their own enterprise
@@ -37,6 +39,12 @@ The Global Parikrama Harīm is a dynamic, mobile collective operating as a suite
 Comprehensive frameworks are provided for all aspects of the Harīm:
 
 ### Governance
+📄 [**Leadership Authority Framework**](docs/governance/LEADERSHIP_AUTHORITY.md)
+- Principal Visionary authority and binding decisions
+- Ultimate decision-making power and veto authority
+- Integration of spiritual guidance with governance
+- Balance between participation and final authority
+
 📄 [**Governance Framework**](docs/governance/GOVERNANCE.md)
 - Organizational structure and roles
 - Decision-making processes
@@ -140,4 +148,4 @@ This work is shared under Creative Commons Attribution-ShareAlike 4.0 Internatio
 
 *"May all beings be happy. May all beings be healthy. May all beings be safe. May all beings be free."*
 
-*In service to Buddha Maitreya and all sentient beings.*
+*In service to Buddha Maitreya, our Principal Visionary and spiritual guide, and all sentient beings.*

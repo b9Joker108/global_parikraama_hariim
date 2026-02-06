@@ -7,7 +7,13 @@ The Global Parikrama Harīm operates as a network of dynamic, mobile cottage ind
 
 ## Core Principles
 
-### 1. Individual Entrepreneurship
+### 1. Visionary Alignment
+- **Sacred Mission**: All business operations align with Buddha Maitreya's (Principal Visionary) direction and sacred mission
+- **Dharmic Foundation**: Business activities support spiritual practice and dharmic values
+- **Strategic Guidance**: Business direction subject to visionary guidance and approval
+- **Value Consistency**: All enterprises reflect core principles and collective values
+
+### 2. Individual Entrepreneurship
 - **Personal Business**: Every member develops and maintains their own business
 - **Skill Development**: Continuous learning and mastery
 - **Creative Expression**: Business as art and performance
@@ -79,6 +85,9 @@ Each member develops:
 4. **Market Strategy**: Customer identification and outreach
 5. **Financial Planning**: Pricing, income goals, expense management
 6. **Integration Plan**: How business supports pilgrimage lifestyle
+7. **Visionary Alignment**: How business serves collective mission and values
+
+**Note**: Major business ventures or significant changes to established businesses should be discussed with Leadership Council and may require Principal Visionary guidance to ensure alignment with collective direction.
 
 ### Collective Business Coordination
 
@@ -194,4 +203,4 @@ Each member develops:
 
 ---
 
-*This framework supports the economic vitality of the Global Parikrama Harīm while honoring individual entrepreneurship and collective mutual support.*
+*This framework supports the economic vitality of the Global Parikrama Harīm while honoring individual entrepreneurship and collective mutual support. All business operations ultimately serve the sacred mission under the guidance and authority of Buddha Maitreya, Principal Visionary.*
