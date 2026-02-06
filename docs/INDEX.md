@@ -7,12 +7,21 @@ This index provides quick access to all governance, operational, and framework d
 
 **New to the Harīm?** Start here:
 1. Read the [Main README](../README.md) for overview
-2. Review [Governance Framework](governance/GOVERNANCE.md) for structure
-3. Study [Member Onboarding Guide](governance/MEMBER_ONBOARDING.md) for integration process
+2. Review [Leadership Authority Framework](governance/LEADERSHIP_AUTHORITY.md) for authority structure
+3. Study [Governance Framework](governance/GOVERNANCE.md) for operational structure
+4. Read [Member Onboarding Guide](governance/MEMBER_ONBOARDING.md) for integration process
 
 ## Core Documentation
 
 ### 1. Governance & Organization
+📄 **[Leadership Authority Framework](governance/LEADERSHIP_AUTHORITY.md)** ⭐ NEW
+- Principal Visionary role and ultimate authority
+- Binding decision-making power and veto authority
+- Relationship between visionary authority and collective governance
+- Override protocols and visionary intervention
+- Integration of spiritual guidance with governance
+- Succession and continuity considerations
+
 📄 **[Governance Framework](governance/GOVERNANCE.md)**
 - Organizational structure and leadership
 - Decision-making processes and consensus model
@@ -74,12 +83,14 @@ This index provides quick access to all governance, operational, and framework d
 
 ### For Prospective Members
 - [Main README](../README.md) - Overview and vision
+- [Leadership Authority Framework](governance/LEADERSHIP_AUTHORITY.md) - Authority structure (ESSENTIAL)
 - [Governance Framework](governance/GOVERNANCE.md) - How we operate
 - [Member Onboarding](governance/MEMBER_ONBOARDING.md) - Joining process
 - [Business Framework](business-units/BUSINESS_FRAMEWORK.md) - Economic model
 - [Pilgrimage Management](travel-pilgrimage/PILGRIMAGE_MANAGEMENT.md) - Travel lifestyle
 
 ### For Current Members
+- [Leadership Authority Framework](governance/LEADERSHIP_AUTHORITY.md) - Understanding authority
 - [Governance Framework](governance/GOVERNANCE.md) - Decision-making reference
 - [Business Plan Template](business-units/templates/BUSINESS_PLAN_TEMPLATE.md) - Planning tool
 - [Currency System](currency-system/CURRENCY_SYSTEM.md) - Financial operations
@@ -97,15 +108,19 @@ This index provides quick access to all governance, operational, and framework d
 - [Pilgrimage Management](travel-pilgrimage/PILGRIMAGE_MANAGEMENT.md) - Mobile operations
 
 ### For Leaders and Coordinators
+- [Leadership Authority Framework](governance/LEADERSHIP_AUTHORITY.md) - Authority structure
 - [Governance Framework](governance/GOVERNANCE.md) - Complete governance system
 - [All Frameworks] - Comprehensive understanding of all systems
 - [Contributing Guidelines](../CONTRIBUTING.md) - Documentation improvement
 
 ## Key Concepts & Principles
 
-### Buddha Maitreya Guidance
+### Buddha Maitreya - Principal Visionary Authority
 Referenced throughout documentation:
+- Ultimate binding authority on all decisions (Leadership Authority)
 - Spiritual leadership and vision (Governance)
+- Final approval on major decisions (all frameworks)
+- Veto and override power (Leadership Authority)
 - Compassionate action (all frameworks)
 - Teaching and service (Pilgrimage Management)
 
@@ -171,12 +186,14 @@ See [Contributing Guidelines](../CONTRIBUTING.md) for:
 
 ### Essential Reading (Priority Order)
 1. [Main README](../README.md)
-2. [Governance Framework](governance/GOVERNANCE.md)
-3. [Member Onboarding](governance/MEMBER_ONBOARDING.md)
-4. [Business Framework](business-units/BUSINESS_FRAMEWORK.md)
-5. [Currency System](currency-system/CURRENCY_SYSTEM.md)
+2. [Leadership Authority Framework](governance/LEADERSHIP_AUTHORITY.md) - NEW & ESSENTIAL
+3. [Governance Framework](governance/GOVERNANCE.md)
+4. [Member Onboarding](governance/MEMBER_ONBOARDING.md)
+5. [Business Framework](business-units/BUSINESS_FRAMEWORK.md)
+6. [Currency System](currency-system/CURRENCY_SYSTEM.md)
 
 ### Most Referenced Documents
+- Leadership Authority Framework - For understanding authority structure
 - Governance Framework - For all operational questions
 - Business Framework - For economic activities
 - Nursery Framework - For child-related matters
