@@ -55,7 +55,8 @@ The Global Parikrama Harīm operates a unique economic system that integrates tr
 - **Symbol**: ☸ (dharma wheel) or H
 - **Purpose**: Facilitate internal exchange and track contributions
 - **Backing**: Community trust, labor, and shared resources
-- **Issuance**: Democratic control by full assembly
+- **Issuance**: Democratic control by full assembly, with final authority by Buddha Maitreya (Principal Visionary)
+- **Economic Oversight**: Principal Visionary holds final authority on currency issuance, exchange rates, and economic policy
 
 #### Harīm Currency Features
 - **Complementary**: Works alongside traditional money
@@ -65,11 +66,12 @@ The Global Parikrama Harīm operates a unique economic system that integrates tr
 - **Democratic Control**: Community governs supply and rules
 
 #### Exchange Rates
-- **Harīm to USD**: Approximately 1 Harīm = $10 (adjusted periodically)
+- **Harīm to USD**: Approximately 1 Harīm = $10 (adjusted periodically by Principal Visionary)
 - **Labor Standard**: 1 hour skilled labor = 1 Harīm
 - **Goods Pricing**: Members set own prices in Harīma or dollars
 - **Flexible Conversion**: Easy exchange between currencies
-- **Regular Review**: Quarterly assessment of exchange rates
+- **Regular Review**: Quarterly assessment of exchange rates with visionary approval
+- **Adjustment Authority**: Principal Visionary has final authority to adjust rates as needed for economic stability
 
 ### Barter and Trade
 
@@ -150,12 +152,39 @@ The Global Parikrama Harīm operates a unique economic system that integrates tr
 - **Emergency Fund**: Reserve for unexpected needs
 
 #### Financial Management
-- **Treasurer**: Elected financial manager(s)
+- **Treasurer**: Elected financial manager(s) with oversight by Principal Visionary
 - **Monthly Reports**: Transparent accounting to all members
-- **Budget Planning**: Annual and quarterly budgets
-- **Consensus Decisions**: Major financial choices by assembly
-- **Audit**: Regular review of finances
+- **Budget Planning**: Annual and quarterly budgets subject to visionary approval
+- **Consensus Decisions**: Major financial choices by assembly with visionary approval or veto power
+- **Audit**: Regular review of finances with visionary oversight
 - **Accessibility**: All members can view financial records
+- **Visionary Authority**: Buddha Maitreya has final authority on major financial decisions and resource allocation
+
+#### Visionary Economic Authority
+
+The Principal Visionary (Buddha Maitreya) holds ultimate authority over economic matters to ensure financial sustainability and alignment with sacred mission:
+
+##### Major Financial Decisions
+- **Budget Approval**: Final approval on annual budgets and significant expenditures
+- **Resource Allocation**: Authority to adjust spending priorities and financial strategies
+- **Investment Decisions**: Oversight of collective investments and major purchases
+- **Emergency Funds**: Power to authorize or restrict use of reserve funds
+- **Financial Restructuring**: Authority to modify financial systems as needed
+
+##### Currency Management
+- **Issuance Control**: Final say on new Harīm currency issuance and circulation
+- **Exchange Rate Adjustments**: Power to modify exchange rates for economic stability
+- **Currency Policy**: Authority over rules governing Harīm currency use and acceptance
+- **Economic Strategy**: Setting overall direction for currency system evolution
+
+##### Collective Financial Oversight
+- **Veto Power**: May veto any collective financial decision that threatens sustainability
+- **Override Authority**: Can override consensus financial choices when necessary
+- **Policy Direction**: Establishes economic policies and financial guidelines
+- **Approval Requirements**: Major financial commitments require visionary approval
+- **Economic Alignment**: Ensures all financial decisions support sacred mission and community wellbeing
+
+This economic authority is exercised with wisdom, transparency, and in consultation with the community, while maintaining clear final decision-making power.
 
 ### Contribution System
 
@@ -302,10 +331,11 @@ The Global Parikrama Harīm operates a unique economic system that integrates tr
 - Financial education and mentoring
 
 ### Governance
-- Democratic control of collective finances
-- Transparent decision-making processes
+- Democratic control of collective finances under ultimate authority of Principal Visionary
+- Transparent decision-making processes with visionary oversight
 - Regular reporting and accountability
-- Member participation in economic planning
+- Member participation in economic planning subject to visionary approval
+- See [Leadership Authority Framework](../governance/LEADERSHIP_AUTHORITY.md) for details
 
 ### Travel and Pilgrimage
 - Funding for sacred journeys
@@ -337,4 +367,4 @@ The Global Parikrama Harīm operates a unique economic system that integrates tr
 
 ---
 
-*Our economic system serves our values. Money and resources are tools for supporting our spiritual practice, creative expression, and collective wellbeing. We use them wisely, ethically, and in alignment with the vision of Buddha Maitreya and the principles of poly-pansexual governance.*
+*Our economic system serves our values. Money and resources are tools for supporting our spiritual practice, creative expression, and collective wellbeing. We use them wisely, ethically, and in alignment with the vision of Buddha Maitreya (Principal Visionary with ultimate economic authority) and the principles of poly-pansexual governance.*

@@ -68,6 +68,7 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 - [ ] Set up your sleeping space
 - [ ] Receive orientation materials
 - [ ] Attend welcome circle
+- [ ] Learn about Buddha Maitreya's role as Principal Visionary
 
 ### Day 2-3: Learning the Rhythms
 - [ ] Participate in morning practices
@@ -75,6 +76,7 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 - [ ] Observe business operations
 - [ ] Meet with childcare team if you have children
 - [ ] Attend a governance meeting
+- [ ] Study the Leadership Authority Framework
 
 ### Day 4-5: Getting Involved
 - [ ] Begin contributing to daily tasks
@@ -82,6 +84,7 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 - [ ] Start learning Harīm currency system
 - [ ] Participate in a cultural experience
 - [ ] One-on-one conversations with members
+- [ ] Understand the authority structure and decision-making hierarchy
 
 ### Day 6-7: Integration Deepening
 - [ ] Present your skills/business to community
@@ -93,7 +96,9 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 ## First Month Goals
 
 ### Understanding Systems
-- Learn governance structure and decision-making
+- Learn governance structure and decision-making hierarchy
+- Understand the Principal Visionary's authority and role
+- Study the balance between collective participation and ultimate authority
 - Understand financial systems and contributions
 - Master daily rhythms and expectations
 - Know emergency protocols and safety measures
@@ -149,12 +154,13 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 ## Rights and Responsibilities
 
 ### Your Rights as a Member
-- Voice in governance decisions
+- Voice in governance decisions (through consensus processes)
 - Privacy and personal boundaries
 - Safe, respectful environment
 - Access to shared resources
 - Support during challenges
 - Freedom to leave at any time
+- Clear understanding of authority structure
 
 ### Your Responsibilities
 - Participate in community life
@@ -164,6 +170,8 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 - Engage in conflict resolution constructively
 - Support children's wellbeing
 - Uphold community values
+- Understand and work within the visionary authority structure
+- Align personal and business activities with collective mission
 
 ## 30-Day Check-In
 
@@ -192,6 +200,7 @@ After successful trial period:
 ## Resources for New Members
 
 ### Key Documents to Study
+- **[Leadership Authority Framework](LEADERSHIP_AUTHORITY.md)** - Understanding visionary authority (ESSENTIAL)
 - Governance Framework
 - Business Units Framework
 - Pilgrimage Management
@@ -214,6 +223,12 @@ After successful trial period:
 
 ## Frequently Asked Questions
 
+### How is the Harīm governed?
+The Harīm operates under the ultimate authority of Buddha Maitreya as Principal Visionary, with participatory governance through consensus processes. While all members have voice and input, Buddha Maitreya holds final decision-making authority on all matters. This structure balances collective wisdom with clear leadership.
+
+### What does "Principal Visionary authority" mean in practice?
+Buddha Maitreya has final approval or veto power on all significant decisions. Most day-to-day operations use consensus decision-making, but major decisions are subject to visionary review. This ensures alignment with the sacred mission while allowing broad participation.
+
 ### How long does it take to feel fully integrated?
 Most members report feeling at home within 3-6 months, but everyone's timeline is different.
 
@@ -224,7 +239,10 @@ You're free to leave at any time. We part with love and blessings. Give as much 
 Yes, with advance notice and community approval. Visitors follow community guidelines.
 
 ### How do finances work?
-You maintain your own finances and contribute voluntarily to the collective (typically 10-20% of income).
+You maintain your own finances and contribute voluntarily to the collective (typically 10-20% of income). Major collective financial decisions require Principal Visionary approval to ensure economic sustainability.
+
+### Can I disagree with visionary decisions?
+You may respectfully voice concerns and questions about any decision. While the Principal Visionary's decisions are final, there is always room for dialogue and understanding. If fundamental disagreement persists, members are free to leave with love and blessings.
 
 ### What about my relationships outside the Harīm?
 Long-distance relationships are respected. Travel to visit is possible with planning.
@@ -241,9 +259,11 @@ Remember:
 - **Stay Open**: New experiences bring growth
 - **Communicate**: Speak up about needs and feelings
 - **Trust Process**: Things unfold in right timing
+- **Understand Authority**: The governance model serves the collective's highest good
+- **Embrace Participation**: Your voice matters within the framework of visionary leadership
 
 Welcome to the Global Parikrama Harīm family!
 
 ---
 
-*May your journey with us be filled with joy, growth, and service to all beings.*
+*May your journey with us be filled with joy, growth, and service to all beings under the wise guidance of Buddha Maitreya, our Principal Visionary.*
