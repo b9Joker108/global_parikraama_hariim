@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/global_parikraama_hariim/blob/main/docs/opinions_over_lack_thereof_v1_08022025.md
 
 # POLICY: Opinions Over Lack Thereof \[DRAFT] #
 
