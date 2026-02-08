@@ -9,13 +9,14 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 
 ### 1. Trial Period (1-3 months)
 - **Purpose**: Experience community life before full commitment
-- **Activities**: Participate in daily routines, gatherings, and travel
+- **Activities**: Participate in daily routines, gatherings and travel
 - **Evaluation**: Both you and the community assess mutual fit
 - **Mentorship**: Assigned buddy/mentor for support and guidance
 - **Questions**: Ask anything! No question is too small
 
 ### 2. Application and Acceptance
-- **Written Application**: Share your story, skills, and intentions
+- **Written Application**: Share your story, skills, intentions
+  and ground possible futures for cultivation
 - **Interview**: Conversation with Leadership Council
 - **Background Check**: Safety screening (for child protection)
 - **References**: Contact with previous communities/employers
@@ -26,7 +27,8 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 - **Business Setup**: Establishing or adapting your enterprise
 - **Relationship Building**: Connecting with existing members
 - **Skill Sharing**: Teaching and learning from others
-- **Finding Your Role**: Discovering how you contribute
+- **Finding Your Role**: Discovering how you contribute and
+  possible futures
 
 ## What to Bring
 
@@ -37,6 +39,7 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 - Driver's license
 - Insurance documents
 - Bank account information
+- Marital records
 
 ### Personal Items
 - Clothing appropriate for various climates
@@ -55,10 +58,10 @@ Welcome to the Global Parikrama Harīm! This guide will help you transition into
 
 ### What NOT to Bring
 - Excessive possessions (we live mobile)
-- Weapons or dangerous items
-- Illegal substances
-- Items requiring extensive storage
-- Expectations that community will change for you
+- Weapons or dangerous items, these will be supplied
+- Illegal substances, these will be supplied
+- Items requiring extensive storage, T.B.A.
+- Expectations that community will change for you, T.B.A.
 
 ## First Week Checklist
 
